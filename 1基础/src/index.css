@@ -1,0 +1,7 @@
+
+@import './a.css';
+@import './less.less';
+body{
+    background: #ccc;
+    height: 200px;
+}
